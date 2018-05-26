@@ -1,0 +1,9 @@
+Sistema de votaciones
+
+Una computadora simula muchos clientes con hilos
+clientes son las urnas
+las urnas se comunican al servidor
+el servidor presenta en un navegador como van las votaciones en total y como van los contendientes
+hay que hacer que sea consistente
+en cada cliente guardar una pequeña base de datos
+y en cada momento debe de coincidir con el navegador
